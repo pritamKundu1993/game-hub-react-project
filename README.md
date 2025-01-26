@@ -79,7 +79,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/game-gub.git
+    git clone https://github.com/pritamKundu1993/game-hub-react-project.git
     cd game-gub
     ```
 
@@ -95,7 +95,7 @@ To set up the project locally, follow these steps:
     npm run dev
     ```
 
-4. Open your browser and visit `http://localhost:3000` to see the application.
+4. Open your browser and visit `http://localhost:5173` to see the application.
 
 ## Scripts
 
